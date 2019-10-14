@@ -1,0 +1,38 @@
++++
+# Date this page was created.
+date = 2019-10-13
+
+# Project title.
+title = "The CrossFit Connection"
+
+# Project summary to display on homepage.
+summary = "Using social network analysis to assess how social patterns and structures present within the CrossFit environment influence health outcomes"
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+ image_preview = "crossfit_logo.jpg"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+ tags = ["*"]
+
+# Optional external URL for project (replaces project detail page).
+# external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+ image = "crossfit_logo.jpg"
+# caption = "My caption :smile:"
+
++++
+SPRINT or SPeeding Research-tested INTerventions, is a National Cancer Institute sponsored fellowship training program. In this training program teams learn how to frame interventions for faster and more effective dissemination. 
+
+Responsibilities:
+
+- Grant Writing
+
+- Presentation of findings
+
+- Customer discovery and interviews
