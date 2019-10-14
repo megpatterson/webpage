@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-date = 2019-10-13
+date = 2019-07-26
 
 # Project title.
-title = "The CrossFit Connection"
+title = "SPRINT"
 
 # Project summary to display on homepage.
-summary = "Using social network analysis to assess how social patterns and structures present within the CrossFit environment influence health outcomes"
+summary = "SPeeding Research-tested INTerventions"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
  image_preview = "crossfit_logo.jpg"
