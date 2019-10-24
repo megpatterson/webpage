@@ -9,11 +9,11 @@ title = "SPRINT"
 summary = "SPeeding Research-tested INTerventions"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
- image_preview = "crossfit_logo.jpg"
+ image_preview = "nci.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
- tags = [""]
+ tags = ["Youth PA"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = ""
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
- image = "crossfit_logo.jpg"
+ image = "SPRINT.jpg"
 # caption = "My caption :smile:"
 
 +++
