@@ -4,7 +4,7 @@ date = 2019-08-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Prochnow, T", "Patterson, M", "Umstattd Meyer, MR"]
+authors = ["Prochnow, T", "Patterson, MS", "Umstattd Meyer, MR"]
 
 # Publication type.
 # Legend:
@@ -42,7 +42,7 @@ projects = []
  tags = ["SNA"]
 
 # Links (optional).
- url_pdf = "https://www.tandfonline.com/eprint/RFGA64PDSXRXQHXNJGNN/full?target=10.1080/07448481.2019.1657121"
+ url_pdf = "https://link.growkudos.com/1k9wcwa7o5c"
 # url_preprint = "#"
 # url_code = "#"
 # url_dataset = "#"
